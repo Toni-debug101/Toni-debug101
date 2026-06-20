@@ -1,16 +1,18 @@
-## Hi there 👋
+# Bienvenue sur mon profil GitHub!
 
-<!--
-**Toni-debug101/Toni-debug101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis un étudiant passionné par les `logiciels` et `l'analyse de données`.
 
-Here are some ideas to get you started:
+### Compétences acquis
+- [x] PHP
+- [x] MySQL
+- [x] Bootstrap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### En cours d'apprentissage
+- [ ] C
+- [ ] Javascript
+- [ ] Python
+- [ ] Java/JSP
+
+### Me contacter
+- [LinkedIn](https://www.linkedin.com/in/toni-mathieu-rasoanaivo-5b40643b6/)
+- [Email](mailto:rtmathieu013@gmail.com)
